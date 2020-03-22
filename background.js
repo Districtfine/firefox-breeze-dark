@@ -8,7 +8,7 @@ var theme = {
         icons_attention: "#3daee9",
         
         frame: "#31363b",
-        frame_inactive: "#2b3034",
+        frame_inactive: "#31363b",
         
         ntp_background: "#232629",
         ntp_text: "#eff0f1",
@@ -29,14 +29,14 @@ var theme = {
         tab_background_separator: "#909396",
         tab_background_text: "#eff0f1",
         tab_line: "#3daee9",
-        tab_loading: "#f67400",
-        tab_selected: "#31363b",
+        tab_loading: "#b4b5b8",
+        tab_selected: "#272C31",
         tab_text: "#eff0f1",
         
-        toolbar: "#31363b",
+        toolbar: "#272C31",
         toolbar_bottom_separator: "#232629",
         toolbar_field: "#232629",
-        toolbar_field_border: "#616569",
+        toolbar_field_border: "#484C50",
         toolbar_field_border_focus: "#3daee9",
         toolbar_field_focus: "#232629",
         toolbar_field_highlight: "#3daee9",
